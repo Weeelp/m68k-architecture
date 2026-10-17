@@ -1,1 +1,1 @@
-![M68k Processor Block Diagram](scheme.jpg)
+![M68k Processor Block Diagram](scheme.jpeg)
